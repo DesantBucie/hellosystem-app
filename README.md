@@ -1,4 +1,4 @@
-# helloSystem_app
+# hellosystem_app
 
 ## Set of .app's for faster install and use on [hellosystem](https://github.com/hellosystem/ISO)
 
